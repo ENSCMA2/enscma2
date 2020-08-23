@@ -8,7 +8,7 @@ Quick facts:
   - NLP research @Radcliffe Institute
   - Curriculum development/teaching @Harvard math
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
-  - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](projectcsgirls.com)
+  - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
 - Previously:
   - NLP research @Raytheon BBN (summer '20)
   - SWE @Bloomberg (summer '19)
