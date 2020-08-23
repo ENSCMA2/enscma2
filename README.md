@@ -7,13 +7,13 @@ Quick facts:
 - Currently:
   - NLP research @Radcliffe Institute
   - Curriculum development/teaching @Harvard math
-  - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](spellcheck-workshop)/[organizing](linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
+  - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
   - [Curriculum](linktr.ee/pcsgnlp) @[ProjectCSGIRLS](projectcsgirls.com)
 - Previously:
   - NLP research @Raytheon BBN (summer '20)
   - SWE @Bloomberg (summer '19)
-  - Deep learning [research](giphy-scraper) @Affectiva (summer '18)
-  - [NLP research](humanly) @AI4ALL ('18 - '19)
+  - Deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
+  - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL ('18 - '19)
 - On "campus":
   - Co-President @[Machine Intelligence Community](harvard-mic.github.io)
   - Choreographer @[Modern Dance Company](hrmdc.org)
