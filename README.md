@@ -16,7 +16,7 @@ Quick facts:
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL ('18 - '19)
 - On "campus":
   - Co-President @[Machine Intelligence Community](https://harvard-mic.github.io)
-  - Choreographer @[Modern Dance Company](https://hrmdc.org)
+  - Choreographer @[Modern Dance Company](http://www.hrmdc.org/)
 - Interests: computational linguistics/NLP (!!!), language(s)/culture(s)/politics/anthropology, data science, SWE, math modeling, education (tools, policy, advocacy), human rights, tech for social good
 - Tech stack (in descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
 - Pronouns: she/her/hers
