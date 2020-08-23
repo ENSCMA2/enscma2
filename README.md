@@ -17,6 +17,7 @@ Quick facts:
 - On "campus":
   - Co-President @[Machine Intelligence Community](https://harvard-mic.github.io)
   - Choreographer @[Modern Dance Company](http://www.hrmdc.org/)
+  - Occasional [contributor](https://medium.com/harvard-open-data-project/open-data-on-open-learning-9b044ba131b1) @[Open Data Project](https://hodp.org)
 - Interests: computational linguistics/NLP (!!!), language(s)/culture(s)/politics/anthropology, data science, SWE, math modeling, education (tools, policy, advocacy), human rights, tech for social good
 - Tech stack (in descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
 - Pronouns: she/her/hers
