@@ -4,17 +4,17 @@ I'm a student at Harvard studying Applied Math with a focus in Computer Science 
 
 Quick facts:  
 
-- Currently: 
+- Currently:
   - NLP research @Radcliffe Institute
   - Curriculum development/teaching @Harvard math
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](github.com/enscma2/spellcheck-workshop)/[organizing](github.com/enscma2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
   - [Curriculum](linktr.ee/pcsgnlp) @[ProjectCSGIRLS](projectcsgirls.com)
-- Previously
+- Previously:
   - NLP research @Raytheon BBN (summer '20)
   - SWE @Bloomberg (summer '19)
   - Deep learning [research](github.com/enscma2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](github.com/enscma2/humanly) @AI4ALL ('18 - '19)
-- On "campus"
+- On "campus":
   - Co-President @[Machine Intelligence Community](harvard-mic.github.io)
   - Choreographer @[Modern Dance Company](hrmdc.org)
 - Interests: computational linguistics/NLP (!!!), language(s)/culture(s)/politics/anthropology, data science, SWE, math modeling, education (tools, policy, advocacy), human rights, tech for social good
