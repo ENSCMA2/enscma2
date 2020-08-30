@@ -1,6 +1,6 @@
 ### Hello! I'm Karina Halevy.
 
-I'm a student at Harvard studying Applied Math with a focus in Computer Science and a secondary in Linguistics.  
+I'm a student at Harvard studying some combination of Computer Science, Math, and Linguistics.
 
 Quick facts:  
 
