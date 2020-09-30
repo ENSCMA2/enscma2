@@ -18,7 +18,7 @@ Quick facts:
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL ('18 - '19)
   - Co-President @[Machine Intelligence Community](https://harvard-mic.github.io)
   - [COVID-19 Response](https://www.harvardanalytics.org/insights/unicef-global-team-analyzes-youtube-reddit-facebook-nyt-amp-twitter-data) @[Data Analytics Group](https://www.harvardanalytics.org/)
-- Interests: computational linguistics/NLP (!!!), language(s)/culture(s)/politics/anthropology, data \[analysis, science, \[insert (ethical) thing you do with data\]\], software engineering, math modeling, education (tools, policy, advocacy), human rights
+- Interests: computational linguistics/NLP (!!!), language(s)/culture(s)/politics/power, software engineering, math modeling, education (tools, policy, advocacy), human rights
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
 - Pronouns: she/her/hers
 
