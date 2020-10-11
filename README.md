@@ -1,6 +1,6 @@
 ### Hello! I'm Karina Halevy.
 
-I'm a student at Harvard studying some combination of Computer Science, \[Applied\] Math, History, and Ethnic Studies.
+I'm a student at Harvard studying some combination of Computer Science, \[Applied\] Math, History, and Ethnic Studies with a careful ration of Linguistics.
 
 Quick facts:  
 
