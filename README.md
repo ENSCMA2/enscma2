@@ -21,7 +21,7 @@ Quick facts:
   - [COVID-19 Response](https://www.harvardanalytics.org/insights/unicef-global-team-analyzes-youtube-reddit-facebook-nyt-amp-twitter-data) @[Data Analytics Group](https://www.harvardanalytics.org/)
 - Interests: computational linguistics/NLP (!!!), language(s)/culture(s)/politics/power, law, quantitative social science, education, justice
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
-- Languages (in smoothly descending order of proficiency): English (Standard American English), Mandarin Chinese, Latin American Spanish, Russian, Hebrew
+- Languages (in smoothly descending order of proficiency): Standard (White) American English, Mandarin Chinese, Latin American Spanish, Russian, Hebrew
 - Pronouns: she/her/hers
 
 
