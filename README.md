@@ -5,7 +5,7 @@ I'm studying some combination of computer things, past things, number things, an
 Quick facts:  
 
 - Currently:
-  - NLP research @Radcliffe Institute
+  - NLP research @\*gestures broadly at Harvard\*
   - Curriculum development/teaching/tutoring @Harvard math
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
