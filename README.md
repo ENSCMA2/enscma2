@@ -2,7 +2,7 @@
 
 I'm studying some combination of computer things, past things, number things, and Ethnic Studies things with a careful ration of language things (collectively, "spicy computer science") at Harvard.
 
-Quick facts:  
+Quick facts:
 
 - Currently:
   - NLP research @\*gestures broadly at Harvard\*
@@ -19,9 +19,9 @@ Quick facts:
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL ('18 - '19)
   - Co-President @[Machine Intelligence Community](https://harvard-mic.github.io)
   - [COVID-19 Response](https://www.harvardanalytics.org/insights/unicef-global-team-analyzes-youtube-reddit-facebook-nyt-amp-twitter-data) @[Data Analytics Group](https://www.harvardanalytics.org/)
-- Interests: computational linguistics, language x culture x power, law, education, arts, justice
+- Interests: computational linguistics, language x culture x education x power, law, public policy, arts, justice
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
 - Language queue (in smoothly descending order of proficiency): Standard American English, Mandarin Chinese, Latin American Spanish, Standard (Central) Russian, Modern Hebrew
-- PGPs (someone from PBHA used this acronym for "preferred gender pronouns" and it's become one of my favorite acronyms): she/her/hers
+- PGPs (someone from PBHA used this acronym for "preferred gender pronouns" and it's officially one of my favorite acronyms): she/her/hers
 
 
