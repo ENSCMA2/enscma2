@@ -22,6 +22,6 @@ Quick facts:
 - Interests: computational linguistics, language x culture x education x power, law, public policy, arts, justice
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
 - Language queue (in smoothly descending order of proficiency): Standard American English, Mandarin Chinese, Latin American Spanish, Standard (Central) Russian, Modern Hebrew
-- PGPs (someone from PBHA used this acronym for "preferred gender pronouns" and it's officially one of my favorite acronyms): she/her/hers
+- Pronouns: she/her/hers
 
 
