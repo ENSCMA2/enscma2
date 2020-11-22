@@ -1,6 +1,6 @@
 ### Hello! I'm Karina Halevy.
 
-I'm studying a combo of computer things, past things, number things, culture things, and power things with a careful ration of language things (collectively, "spicy computer science") at Harvard.
+I'm studying a combo of computer things, past things, number things, culture things, and power things with a careful ration of language things at Harvard.
 
 Quick facts:
 
