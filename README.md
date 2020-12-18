@@ -6,11 +6,11 @@ Quick facts:
 
 - Currently:
   - NLP research @\*gestures broadly at Harvard\*
-  - Curriculum development/teaching/tutoring @Harvard math
+  - Curriculum/teaching/tutoring @\*gestures broadly at Harvard once again\*
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
-  - Resources & Advocacy/Organizing @[Phillips Brooks House Association](https://pbha.org)
-  - Choreography @[Modern Dance Company](http://www.hrmdc.org/)
+  - Resources, Advocacy/Organizing, & Tutoring @[Phillips Brooks House Association](https://pbha.org)
+  - Choreography & Money Management &trade @[Modern Dance Company](http://www.hrmdc.org/)
   - Occasional [involvement](https://medium.com/harvard-open-data-project/open-data-on-open-learning-9b044ba131b1) @[Open Data Project](https://hodp.org), [WiCS](https://www.harvardwics.com/)
 - Previously:
   - NLP research @Raytheon BBN (summer '20)
@@ -21,7 +21,5 @@ Quick facts:
   - [COVID-19 Response](https://www.harvardanalytics.org/insights/unicef-global-team-analyzes-youtube-reddit-facebook-nyt-amp-twitter-data) @[Data Analytics Group](https://www.harvardanalytics.org/)
 - Interests: computational linguistics, language x culture x education x power x history, law, public policy, arts, justice
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
-- Language queue (in smoothly descending order of proficiency): Standard American English, Mandarin Chinese, Latin American Spanish, Standard (Central) Russian, Modern Hebrew
+- Language queue (in smoothly descending order of proficiency): Standard Corporate Buzzword, Standard American English, Mandarin Chinese, Latin American Spanish, Standard Central Russian, Modern Hebrew
 - Pronouns: she/her/hers
-
-
