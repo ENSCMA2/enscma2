@@ -10,7 +10,7 @@ Quick facts:
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
   - Resources, Advocacy/Organizing, & Tutoring @[Phillips Brooks House Association](https://pbha.org)
-  - Choreography & Money Management &trade @[Modern Dance Company](http://www.hrmdc.org/)
+  - Choreography & Money Management TM @[Modern Dance Company](http://www.hrmdc.org/)
   - Occasional [involvement](https://medium.com/harvard-open-data-project/open-data-on-open-learning-9b044ba131b1) @[Open Data Project](https://hodp.org), [WiCS](https://www.harvardwics.com/)
 - Previously:
   - NLP research @Raytheon BBN (summer '20)
