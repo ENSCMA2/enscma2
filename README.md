@@ -4,7 +4,7 @@ I'm studying \*sweats in idk\* at Harvard (except not really because physical Ha
 
 Slow facts (that sink might be at your door if you want to let it in):
 
-- Currently (not literally at this minute because I'm probably sleeping or watching TV, but think more along the lines of this day/month):
+- Currently (not literally at this minute because I'm probably sleeping or watching TV, and most definitely not all at the same time, but think more along the lines of this day/month):
   - NLP research @\*gestures broadly at Harvard\*
   - Curriculum @\*gestures broadly at Harvard once again\*
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
