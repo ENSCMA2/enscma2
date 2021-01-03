@@ -20,7 +20,7 @@ Slow facts (that sink might be at your door if you want to let it in):
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Co-President @[Machine Intelligence Community](https://harvard-mic.github.io) (fall '19 - summer '20)
   - [COVID-19 Response](https://www.harvardanalytics.org/insights/unicef-global-team-analyzes-youtube-reddit-facebook-nyt-amp-twitter-data) @[Data Analytics Group](https://www.harvardanalytics.org/) (spring '20)
-- Interests that would probably make it on a resumé if my resumé had an "interests" section: computational linguistics, language x culture x education x power x history, law, public policy, arts (dance and music of the playing variety), justice (some may call this indecisive, and I don't disagree, but I also don't really want or need to be decisive, I think)
+- Interests that would probably make it on a resumé if my resumé had an "interests" section: computational linguistics, language x culture x education x power x history, law, public policy, arts (dance and music of the playing variety), justice (indecisive? Yes. And?)
 - Interests that would probably not make it on a resumé, even if it had an "interests" section: tag groups, music of the listening variety (Ava Max, Faouzia, and Vivaldi at the moment I'm typing this, but the Spotify recommendations can and will change that in about five minutes), FYP reels, Grey's Anatomy, political comedy
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl
 - Language queue (in smoothly descending order of proficiency): Standard Corporate Buzzword, Standard American English, Mandarin Chinese, Latin American Spanish, Standard Central Russian, Modern Hebrew
