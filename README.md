@@ -4,20 +4,22 @@ I'm studying \*sweats in idk\* at Harvard (except not really because physical Ha
 
 Slow facts (that sink might be at your door if you want to let it in):
 
-- Currently (not literally at this minute because I'm probably sleeping or watching TV, and most definitely not all at the same time, but think more along the lines of this day/month):
+- Currently (not literally at this minute because I'm probably sleeping or watching TV, and most definitely not all at the same time, but think more along the lines of this day/month/semester):
   - NLP research @\*gestures broadly at Harvard\*
   - Curriculum @\*gestures broadly at Harvard once again\*
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
   - Resources & Tutoring @[Phillips Brooks House Association](https://pbha.org)
   - Choreography & Money Management TM @[Modern Dance Company](http://www.hrmdc.org/)
-  - Occasional [involvement](https://medium.com/harvard-open-data-project/open-data-on-open-learning-9b044ba131b1) @[Open Data Project](https://hodp.org), [WiCS](https://www.harvardwics.com/)
-- Previously (yay for actual clean-cut measures of time):
+  - Occasionally reading stuff @[WiCS](https://www.harvardwics.com/)
+- Previously (literally, fully previously):
+  - Directing Myself @[Recurse Center](https://recurse.com) (winter '21)
   - Curriculum/teaching/tutoring @Harvard math with one (literally 1) sprinkle of CS (summer/fall '20)
   - NLP research @Raytheon BBN (summer '20)
   - SWE @Bloomberg (summer '19)
   - Deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
+  - Mentoring & [Contributing](https://medium.com/harvard-open-data-project/open-data-on-open-learning-9b044ba131b1)  @[Open Data Project](https://hodp.org)
   - Co-President @[Machine Intelligence Community](https://harvard-mic.github.io) (fall '19 - summer '20)
   - [COVID-19 Response](https://www.harvardanalytics.org/insights/unicef-global-team-analyzes-youtube-reddit-facebook-nyt-amp-twitter-data) @[Data Analytics Group](https://www.harvardanalytics.org/) (spring '20)
 - Interests that would probably make it on a resumé if my resumé had an "interests" section: computational linguistics, language x culture x education x power x history, law, public policy, arts (dance and music of the playing variety), justice (indecisive? Yes. And?)
