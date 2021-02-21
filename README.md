@@ -6,8 +6,8 @@ Slow facts (that sink might be at your door if you want to let it in):
 
 - Currently:
   - In all honesty, probably eating, sleeping, and/or watching TV, but occasionally I will take a break from those activities and do...
-  - NLP research @\*gestures broadly at Harvard\*
-  - Curriculum @\*gestures broadly at Harvard once again\*
+  - Research @\*gestures broadly at Harvard\*
+  - Education @\*gestures broadly at Harvard once again\*
   - [Blogging](http://linghacks.tech/blog/in-out-oops)/[teaching](https://github.com/ENSCMA2/spellcheck-workshop)/[organizing](https://github.com/ENSCMA2/linghacks-2019-workshops) @[LingHacks](http://linghacks.tech)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
   - Resources & Tutoring @[Phillips Brooks House Association](https://pbha.org)
@@ -22,7 +22,7 @@ Slow facts (that sink might be at your door if you want to let it in):
   - Co-Presidenting @[Machine Intelligence Community](https://harvard-mic.github.io) (fall '19 - summer '20)
   - [COVID-19 Response](https://www.harvardanalytics.org/insights/unicef-global-team-analyzes-youtube-reddit-facebook-nyt-amp-twitter-data) @[Data Analytics Group](https://www.harvardanalytics.org/) (spring '20)
 - Interests that would probably make it on a resumé if my resumé had an "interests" section: computational linguistics, language & culture, education, history, law, public policy, arts (dance and music of the playing variety)
-- Interests that would probably not make it on a resumé, even if it had an "interests" section: tag groups, music of the listening variety (Ava Max, Faouzia, and Vivaldi at the moment I'm typing this, but the Spotify recommendations can and will change that in about five minutes), FYP reels, Grey's Anatomy, political comedy
+- Interests that would probably not make it on a resumé, even if it had an "interests" section: tag groups, music of the listening variety (Ava Max, Valerie Broussard, Amy Winehouse, Joe Hisaishi, and Sara Ramirez at the moment I'm typing this, but the Spotify recommendations can and will change that in about five minutes), FYP reels, Grey's Anatomy, political comedy
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, SQL, Bash/Shell, Java, JavaScript, C/C++, Perl, LaTeX, Markdown, Excel/Google Sheets (Are the last three programming languages? Not really. But have I been paid to do things/won money doing things exclusively using multiple distinct subsets of them, and has the work I've done with them given meaning to/laid the foundation for the work I/others have done with "real" programming languages? Yes and yes.)
 - Language queue (in smoothly descending order of proficiency): Standard Corporate Buzzword, Standard American English, Mandarin Chinese, Latin American Spanish, Standard Central Russian, Modern Hebrew
 - Pronouns: she/her/hers/她/ella/она/היא
