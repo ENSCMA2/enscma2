@@ -1,4 +1,4 @@
-### Hello! I'm Karina.
+### Hello!
 
 I'm studying \*sweats in idk\* at Harvard (except not really because physical Harvard isn't really happening right now).
 
@@ -8,7 +8,7 @@ Slow facts (that sink might be at your door if you want to let it in):
   - In all honesty, probably eating, sleeping, and/or watching TV, but occasionally I will take a break from those activities and do...
   - Research @\*gestures broadly at Harvard\*
   - Education @\*gestures broadly at Harvard once again\*
-  - Mouse clicking @[LingHacks](http://linghacks.tech)
+  - Mouse Clicking @[LingHacks](http://linghacks.tech)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
   - Tutoring, Resources, Training @[Phillips Brooks House Association](https://pbha.org)
   - Choreography & Money Management @[Modern Dance Company](http://www.hrmdc.org/)
