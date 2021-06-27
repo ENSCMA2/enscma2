@@ -5,7 +5,8 @@ I'm studying \*sweats in idk\*.
 Slow facts (that sink might be at your door if you want to let it in):
 
 - Currently:
-  - In all honesty, probably eating, sleeping, and/or watching TV, but occasionally I will take a break from those activities and do...
+  - In all honesty, probably eating, sleeping, playing 2048, and/or watching TV, but occasionally I will take a break and do...
+  - SWE @Microsoft
   - Research @\*gestures broadly at Harvard\*
   - Education @\*gestures broadly at Harvard once again\*
   - Mouse Clicking @[LingHacks](http://linghacks.tech)
@@ -20,7 +21,7 @@ Slow facts (that sink might be at your door if you want to let it in):
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Interacting With People @Open Data Project, Data Analytics Group, Machine Intelligence Community
 - Interests that would probably make it on a resumé if my resumé had an "interests" section: computational linguistics, language & culture, education, history, law, public policy, arts (dance and music of the playing variety)
-- Interests that would probably not make it on a resumé, even if it had an "interests" section: tag groups, music of the listening variety (Ava Max, Valerie Broussard, Amy Winehouse, Joe Hisaishi, and Sara Ramirez at the moment I'm typing this, but the Spotify recommendations can and will change that in about five minutes), FYP reels, Grey's Anatomy, political comedy
+- Interests that would probably not make it on a resumé, even if it had an "interests" section: tag groups, music of the listening variety (Ava Max, Valerie Broussard, Amy Winehouse, Joe Hisaishi, MARINA, and Sara Ramirez at the moment I'm typing this, but the Spotify recommendations can and will change that in about five minutes), FYP reels, Grey's Anatomy
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, LaTeX, Markdown, Excel/Google Sheets, Bash/Shell, SQL, Perl
 - Language queue (in smoothly descending order of proficiency): Standard Corporate Buzzword, Standard American English, Mandarin Chinese, Latin American Spanish, Standard Central Russian, Modern Hebrew
 - Pronouns: she/her/hers/她/ella/она/היא
