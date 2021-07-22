@@ -19,8 +19,6 @@ Facts:
   - Corporate internships: NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Interacting With People @Open Data Project, Data Analytics Group, Machine Intelligence Community
-- Interests that would probably make it on a resumé if my resumé had an "interests" section: computational linguistics, language & culture, education, history, law, public policy, arts (dance and music of the playing variety)
-- Interests that would probably not make it on a resumé, even if it had an "interests" section: music of the listening variety (Ava Max, Valerie Broussard, Amy Winehouse, Joe Hisaishi, MARINA, and Sara Ramirez at the moment I'm typing this, but the Spotify recommendations can and will change that in about five minutes), medical & legal dramas
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, LaTeX, Markdown, Excel/Google Sheets, Bash/Shell, SQL, Perl
 - Language queue (in smoothly descending order of proficiency): Standard American English, Mandarin Chinese, Latin American Spanish, Standard Central Russian, Modern Hebrew
 - Pronouns: she/her/hers/她/ella/она/היא
