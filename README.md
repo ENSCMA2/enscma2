@@ -5,7 +5,6 @@ I'm studying computer science (and maybe other things, undecided) at Harvard.
 Facts:
 
 - Currently (+ or - 6 months):
-  - SWE intern @Microsoft
   - Research @\*gestures broadly at Harvard\*
   - Education @\*gestures broadly at Harvard once again\*
   - Mouse Clicking @[LingHacks](http://linghacks.tech)
@@ -16,7 +15,7 @@ Facts:
 - Previously:
   - Directing Myself @[Recurse Center](https://recurse.com) (winter '21)
   - Education @Harvard math (summer/fall '20), Harvard CS (spring '21)
-  - Corporate internships: NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
+  - Corporate internships: SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Interacting With People @Open Data Project, Data Analytics Group, Machine Intelligence Community
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, LaTeX, Markdown, Excel/Google Sheets, Bash/Shell, SQL, Perl
