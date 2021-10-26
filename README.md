@@ -15,6 +15,7 @@ Facts:
 - Previously:
   - Directing Myself @[Recurse Center](https://recurse.com) (winter '21)
   - Education @Harvard math (summer/fall '20), Harvard CS (spring '21)
+  - [NLP research](https://aclanthology.org/2021.findings-acl.174/) @Radcliffe Institute
   - Corporate internships: SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Interacting With People @Open Data Project, Data Analytics Group, Machine Intelligence Community
