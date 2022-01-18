@@ -9,12 +9,12 @@ Facts:
   - Education @\*gestures broadly at Harvard once again\*
   - Mouse Clicking @[LingHacks](http://linghacks.tech)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com)
-  - Tutoring, Resources, Training @[Phillips Brooks House Association](https://pbha.org)
-  - Choreography & Money Management @[Modern Dance Company](http://www.hrmdc.org/)
+  - Resources & Training (previously, Tutoring) @[Phillips Brooks House Association](https://pbha.org)
+  - Leadership & Choreography (previously, Money Management) @[Modern Dance Company](http://www.hrmdc.org/)
   - Occasional reading @[WiCS](https://www.harvardwics.com/)
 - Previously:
   - Directing Myself @[Recurse Center](https://recurse.com) (winter '21)
-  - Education @Harvard math (summer/fall '20), Harvard CS (spring '21)
+  - Education @Harvard math (summer/fall '20), Harvard CS (spring & fall '21)
   - [NLP research](https://aclanthology.org/2021.findings-acl.174/) @Radcliffe Institute
   - Corporate internships: SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
