@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm studying computer science (and maybe other things, undecided) at Harvard.
+I'm studying computer science (and maybe other things, undecided) at Harvard. You can find the same exact information about me in a different format [here](https://karinahalevy.weebly.com), and perhaps also [here](https://linkedin.com/in/khalevy).
 
 Facts:
 
