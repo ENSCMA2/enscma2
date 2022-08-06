@@ -5,7 +5,6 @@ I'm studying computer science (and maybe other things) at Harvard. You can find 
 Facts:
 
 - Currently (+ or - 6 months):
-  - Software @Tableau
   - Research @\*gestures broadly at Harvard\*
   - Leadership & Choreography (previously, Money Management) @[Modern Dance Company](http://www.hrmdc.org/)
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
@@ -13,7 +12,7 @@ Facts:
   - Education @Harvard math (summer/fall '20), Harvard CS (spring & fall '21, spring '22)
   - Directing Myself @[Recurse Center](https://recurse.com) (winter '21)
   - [NLP research](https://aclanthology.org/2021.findings-acl.174/) @Radcliffe Institute
-  - Corporate internships: SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
+  - Corporate internships: SWE @Tableau (summer '22), SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Resources, Training, & Tutoring @[Phillips Brooks House Association](https://pbha.org)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com) (Fall '17 - Summer '21)
