@@ -6,7 +6,7 @@ Facts:
 
 - Currently (+ or - 6 months):
   - Research @\*gestures broadly at Harvard\*
-  - Leadership & Choreography (previously, Money Management) @[Modern Dance Company](http://www.hrmdc.org/)
+  - Choreography (previously, Leadership, Money Management, & Technology) @[Modern Dance Company](http://www.hrmdc.org/)
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Education @Harvard math (summer/fall '20), Harvard CS (spring & fall '21, spring '22)
@@ -19,6 +19,6 @@ Facts:
   - Writing Words and Drawing Pictures @Product Lab, Open Data Project, Data Analytics Group
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, LaTeX, Markdown, Excel/Google Sheets, Bash/Shell, C++, SQL, Perl
 - Language queue (in smoothly descending order of proficiency): Standard American English, Mandarin Chinese, Latin American Spanish, Standard Central Russian, Modern Hebrew
-- Arts Heap (in no order): ballet, contemporary, modern, character/folk, lyrical, jazz, choreography, directing, stage management, budgeting/managing finances, grantwriting, lighting board programming/ops, editing music/videos with iMovie, graphically designing programs with Canva, pressing "Go" on QLab, posting stuff on social media, maintaining Weebly/Google sites, casting/running auditions, running board meetings/rehearsals
+- Arts Heap (in no order): ballet, contemporary, modern, character/folk, lyrical, jazz, choreography, directing, stage management, budgeting/managing finances, grantwriting, lighting design/programming/board ops, editing music/videos with iMovie, graphically designing programs with Canva, pressing "Go" on QLab, adding sound cues & green slices in QLab, posting stuff on social media, maintaining Weebly/Google sites, casting/running auditions, running board meetings/rehearsals, directing shows, producing shows, ushering, moving big props on & off stage during blackouts, feeling spike tape with my feet
 - Pronouns: she/her/hers/她/ella/она/היא
 - Tribes whose land I've lived on, in no particular order: [Ohlone](http://www.muwekma.org/home.html), [Ramaytush](http://www.ramaytush.com/), [Massa-adchu-es-et](http://massachusetttribe.org/), [Pawtucket](http://www.salemhistorical.org/massachusetts-indigenous-community-resources), [Chochenyo](https://sogoreate-landtrust.com/), [Nipmuck](https://www.nipmucnation.org/), [Tamyen](https://cla.berkeley.edu/languages/tamyen.php), [Coast Salish](http://www.firstnations.de/development/coast_salish.htm), [Duwamish](https://www.duwamishtribe.org/), [Suquamish](https://suquamish.nsn.us/)
