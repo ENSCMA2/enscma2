@@ -5,8 +5,10 @@ I'm studying computer science (and maybe other things) at Harvard. You can find 
 Facts:
 
 - Currently (+ or - 6 months):
+  - Education @Harvard CS
   - Research @\*gestures broadly at Harvard\*
   - Choreography (previously, Leadership, Money Management, & Technology) @[Modern Dance Company](http://www.hrmdc.org/)
+  - Other Dance Stuff @\*gestures broadly at Harvard again\*
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Education @Harvard math (summer/fall '20), Harvard CS (spring & fall '21, spring '22)
