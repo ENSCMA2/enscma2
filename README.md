@@ -6,14 +6,13 @@ Facts:
 
 - Currently (+ or - 6 months):
   - Education @Harvard CS
-  - Research @\*gestures broadly at Harvard\*
   - Choreography (previously, Leadership, Money Management, & Technology) @[Modern Dance Company](http://www.hrmdc.org/)
   - Other Dance Stuff @\*gestures broadly at Harvard again\*
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Education @Harvard math (summer/fall '20), Harvard CS (spring & fall '21, spring '22)
   - Directing Myself @[Recurse Center](https://recurse.com) (winter '21)
-  - [NLP research](https://aclanthology.org/2021.findings-acl.174/) @Radcliffe Institute
+  - [NLP](https://aclanthology.org/2021.findings-acl.174/) & [HCI/viz](https://github.com/ENSCMA2/overtext-history) research @Radcliffe Institute
   - Corporate internships: SWE @Tableau (summer '22), SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Resources, Training, & Tutoring @[Phillips Brooks House Association](https://pbha.org)
