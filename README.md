@@ -1,11 +1,10 @@
 ### Hello!
 
-I'm studying computer science and history with a minor in statistics at Harvard. You can find the same exact information about me in a different format [here](https://enscma2.github.io), and perhaps also [here](https://linkedin.com/in/khalevy).
+I just graduated from Harvard with a joint major in Computer Science and History and a minor in Statistics. You can find the same exact information about me in a different format [here](https://enscma2.github.io), and perhaps also [here](https://linkedin.com/in/khalevy).
 
 Facts:
 
 - Currently (+ or - 6 months):
-  - Education @Harvard CS
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Dancing, Choreography, Leadership, Money Management, & Technology @[Modern Dance Company](http://www.hrmdc.org/)
@@ -18,7 +17,7 @@ Facts:
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Resources, Training, & Tutoring @[Phillips Brooks House Association](https://pbha.org)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com) (Fall '17 - Summer '21)
-  - Writing Words and Drawing Pictures @Product Lab, Open Data Project, Data Analytics Group
+  - Writing Words and Drawing Pictures @[Product Lab](https://www.hcsproductlab.org/), [Open Data Project](https://www.hodp.org/), [Data Analytics Group](https://www.harvardanalytics.org/)
 - Tech stack (in roughly descending order of proficiency): Python, R (+ R Shiny), OCaml, LaTeX, Markdown, Excel/Google Sheets, Bash/Shell, C++, SQL, Perl
 - Language queue (in smoothly descending order of proficiency): Standard American English, Mandarin Chinese, Latin American Spanish, Standard Central Russian, Modern Hebrew
 - Arts Heap (in no order): ballet, contemporary, modern, character/folk, lyrical, jazz, choreography, directing, producing, stage management, budgeting/managing finances, grantwriting, lighting design/programming/board ops, editing music/videos/projections with iMovie, graphically designing programs with Canva, sound design/board ops/green slices in QLab, posting stuff on social media, maintaining Weebly/Google/GitHub Pages sites, ushering, moving props on & off stage during blackouts, spiking stages
