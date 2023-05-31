@@ -5,6 +5,7 @@ I just graduated from Harvard with a joint major in Computer Science and History
 Facts:
 
 - Currently (+ or - 6 months):
+  - Research @EPFL
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Dancing, Choreography, Leadership, Money Management, & Technology @[Modern Dance Company](http://www.hrmdc.org/)
