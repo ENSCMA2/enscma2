@@ -1,10 +1,11 @@
 ### Hello!
 
-I just graduated from Harvard with a joint major in Computer Science and History and a minor in Statistics. You can find the same exact information about me in a different format [here](https://enscma2.github.io), and perhaps also [here](https://linkedin.com/in/khalevy).
+I am a Ph.D. student at the Carnegie Mellon University Language Technologies Institute. Previously, I graduated from Harvard with a joint major in Computer Science and History and a minor in Statistics. You can find the same exact information about me in a different format [here](https://enscma2.github.io), and perhaps also [here](https://linkedin.com/in/khalevy).
 
 Facts:
 
 - Currently (+ or - 6 months):
+  - Research & Education @CMU
   - Research @EPFL
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
