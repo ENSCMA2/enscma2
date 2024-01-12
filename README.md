@@ -7,7 +7,6 @@ Facts:
 - Currently (+ or - 6 months):
   - Research, Education @CMU LTI
   - Dance & Tech, mostly @[DS](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) & [En Pointe](https://www.instagram.com/enpointe.cmu/), also sometimes @[AB Tech](https://abtech.org/) & [Scotch'n'Soda](https://www.snstheatre.org/index.html)
-  - Research @EPFL
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Dancing, Choreography, Leadership, Money Management, & Technology @[Modern Dance Company](http://www.hrmdc.org/)
