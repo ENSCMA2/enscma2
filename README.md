@@ -9,6 +9,7 @@ Facts:
   - Dance & Tech, mostly @[DS](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) & [En Pointe](https://www.instagram.com/enpointe.cmu/), also sometimes @[AB Tech](https://abtech.org/) & [Scotch'n'Soda](https://www.snstheatre.org/index.html)
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
+  - Research @[EPFL](https://nlp.epfl.ch/) (summer '23)
   - Dancing, Choreography, Leadership, Money Management, & Technology @[Modern Dance Company](http://www.hrmdc.org/)
   - Production and Accidental Choreography/Dancing @[ARTS FIRST](https://ofa.fas.harvard.edu/arts)
   - Dancing, Giving People Starting Notes, Ushering, & Curtain Pulling @[Opera](https://harvardcollegeopera.com)
