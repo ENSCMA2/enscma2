@@ -5,8 +5,9 @@ I am a Ph.D. student at the Carnegie Mellon University Language Technologies Ins
 Facts:
 
 - Currently (+ or - 6 months):
+  - Research @Apple
   - Research, Education @CMU LTI
-  - Dance & Tech, mostly @[DS](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) & [En Pointe](https://www.instagram.com/enpointe.cmu/), also sometimes @[AB Tech](https://abtech.org/) & [Scotch'n'Soda](https://www.snstheatre.org/index.html)
+  - Dance & Tech, mostly [En Pointe](https://www.instagram.com/enpointe.cmu/) & @[AB Tech](https://abtech.org/), also sometimes [DS](https://www.contrib.andrew.cmu.edu/org/dancer/home.html)  & [Scotch'n'Soda](https://www.snstheatre.org/index.html)
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Research @[EPFL](https://nlp.epfl.ch/) (summer '23)
