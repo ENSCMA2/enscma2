@@ -5,9 +5,8 @@ I am a Ph.D. student at the Carnegie Mellon University Language Technologies Ins
 Facts:
 
 - Currently (+ or - 6 months):
-  - Research @Apple
   - Research, Education @CMU LTI
-  - Dance & Tech, mostly [En Pointe](https://www.instagram.com/enpointe.cmu/) & @[AB Tech](https://abtech.org/), also sometimes [DS](https://www.contrib.andrew.cmu.edu/org/dancer/home.html)  & [Scotch'n'Soda](https://www.snstheatre.org/index.html)
+  - Dance & Tech, mostly [En Pointe](https://www.instagram.com/enpointe.cmu/) & @[AB Tech](https://abtech.org/), also sometimes [DS](https://www.contrib.andrew.cmu.edu/org/dancer/home.html) & [Scotch'n'Soda](https://www.snstheatre.org/index.html)
   - Mouse Clicking & Thoughts @[LingHacks](http://linghacks.tech)
 - Previously:
   - Research @[EPFL](https://nlp.epfl.ch/) (summer '23)
@@ -17,7 +16,7 @@ Facts:
   - Education @Harvard math (summer/fall '20), Harvard CS (spring & fall '21, spring '22, spring '23)
   - Directing Myself @[Recurse Center](https://recurse.com) (winter '21)
   - [NLP](https://aclanthology.org/2021.findings-acl.174/) & [HCI/viz](https://github.com/ENSCMA2/overtext-history) research @Radcliffe Institute
-  - Corporate internships: SWE @Tableau (summer '22), SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
+  - Corporate internships: Research @Apple (summer '24), SWE @Tableau (summer '22), SWE @Microsoft (summer '21), NLP research @Raytheon BBN (summer '20), SWE @Bloomberg (summer '19), deep learning [research](https://github.com/ENSCMA2/giphy-scraper) @Affectiva (summer '18)
   - [NLP research](https://github.com/ENSCMA2/humanly) @AI4ALL (spring '18 - spring '19)
   - Resources, Training, & Tutoring @[Phillips Brooks House Association](https://pbha.org)
   - [Curriculum](https://linktr.ee/pcsgnlp) @[ProjectCSGIRLS](https://projectcsgirls.com) (Fall '17 - Summer '21)
